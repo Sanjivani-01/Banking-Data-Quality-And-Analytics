@@ -1,6 +1,6 @@
-# Banking Data Quality, Lineage & Analytics Framework
+# Banking Data Quality, Lineage & Analytic
 
-## 📌 What We Did
+## 📌 Introduction
 
 Built an end-to-end banking data analytics and governance workflow using **Python, SQL and Power BI**.
 
