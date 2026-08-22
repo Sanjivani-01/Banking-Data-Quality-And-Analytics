@@ -79,7 +79,6 @@ The dashboard provides visibility into:
 * Branch activity
 * Customer activity
 * Key banking KPIs
-* Data-quality indicators
 
 ---
 
@@ -97,7 +96,3 @@ The dashboard provides visibility into:
 The project demonstrates how **data quality + governance + analytics** can work together to provide more reliable business reporting and support data-driven decision-making.
 
 ---
-
-## 🛠️ Tools
-
-**Python | Pandas | SQL | Power BI | Excel | Data Quality | Data Lineage | Metadata**
