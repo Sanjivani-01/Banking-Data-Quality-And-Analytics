@@ -1,0 +1,4 @@
+Dataset,Column,Invalid_or_Missing,Min_Date,Max_Date
+Customers,DateOfBirth,32,1960-01-27,2026-07-06 15:01:42.854835
+Accounts,OpeningDate,33,2018-01-03,2026-07-06 15:01:42.900415
+Transactions,TransactionDate,1000,2020-01-01,2026-08-28 15:01:43.084879

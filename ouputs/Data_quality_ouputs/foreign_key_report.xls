@@ -1,0 +1,5 @@
+Child_Dataset,Child_Field,Parent_Dataset,Parent_Field,Invalid_Count,Status
+Accounts,CustomerID,Customers,CustomerID,0,PASS
+Transactions,AccountOriginID,Accounts,AccountID,0,PASS
+Transactions,AccountDestinationID,Accounts,AccountID,0,PASS
+Transactions,BranchID,Branches,BranchID,0,PASS

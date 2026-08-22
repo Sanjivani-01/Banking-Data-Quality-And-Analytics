@@ -1,0 +1,5 @@
+Dataset,Rows,Columns,Missing_Cells,Exact_Duplicate_Rows
+Customers,1111,6,45,11
+Accounts,1667,6,33,16
+Transactions,50000,8,1000,500
+Branches,50,3,0,0

@@ -1,0 +1,5 @@
+Dataset,Primary_Key,Status,Unique_IDs,Rows_with_Duplicate_ID
+Customers,CustomerID,FAIL,1100,22
+Accounts,AccountID,FAIL,1651,32
+Transactions,TransactionID,FAIL,49500,1000
+Branches,BranchID,PASS,50,0
