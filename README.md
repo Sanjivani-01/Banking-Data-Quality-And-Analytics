@@ -1,4 +1,4 @@
-# Banking Data Quality, Lineage & Analytic
+# Banking Data Quality, Lineage & Analytics
 
 ## 📌 Introduction
 
@@ -19,7 +19,7 @@ The project focuses on making banking data **clean, validated, traceable and rea
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Workflow
 
 ```text
 Banking Source Data
@@ -40,27 +40,27 @@ Power BI Dashboard
 Business Insights & Recommendations
 ```
 
-### Architecture Explanation
+### Workflow Explanation
 
-**1. Source Data**
+**1. Source Data -**
 Customer, Account, Transaction and Branch datasets are used as the banking data sources.
 
-**2. Python / Pandas**
+**2. Python / Pandas -**
 Data is profiled and cleaned by identifying missing values, duplicates and data-quality issues.
 
-**3. Data Quality Controls**
+**3. Data Quality Controls -**
 Key controls are applied to check completeness, uniqueness, validity and referential integrity.
 
-**4. SQL**
+**4. SQL -**
 SQL is used to independently validate relationships and perform business analysis.
 
-**5. Governance Layer**
+**5. Governance Layer -**
 Source-to-target mapping, data lineage and data dictionary provide traceability and metadata.
 
-**6. Power BI**
+**6. Power BI -**
 Validated data is transformed into interactive dashboards and business reports.
 
-**7. Business Insights**
+**7. Business Insights -**
 The final layer converts validated data into actionable business findings.
 
 ---
@@ -68,9 +68,8 @@ The final layer converts validated data into actionable business findings.
 ## 📊 Power BI Dashboard
 
 *Dashboard screenshots are provided below.*
+<img width="1320" height="742" alt="Screenshot 2026-08-22 151614" src="https://github.com/user-attachments/assets/844a8d9e-4d2e-4fff-90ea-1337fa495310" />
 
-> **<img width="1320" height="742" alt="Screenshot 2026-08-22 151614" src="https://github.com/user-attachments/assets/844a8d9e-4d2e-4fff-90ea-1337fa495310" />
-**
 
 The dashboard provides visibility into:
 
